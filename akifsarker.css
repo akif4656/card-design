@@ -1,0 +1,28 @@
+.card{
+width: 350px;
+margin: 10px;
+border-radius: 5%;
+box-sizing: border-box;
+box-shadow: 1px 4px 10px black;
+background-color: green;
+
+}
+.photo{
+ 
+    width:100%;
+    border-radius: 5%;
+    
+}
+.card-body{
+padding: 1px;
+text-align:center;
+color: darkturquoise;
+}
+.card-dp {
+text-align:justify;
+color:darkgray;
+line-height: 1.5;
+}
+.card:hover{
+    box-shadow: 3px 5px 8px black;
+}
